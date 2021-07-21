@@ -1,0 +1,22 @@
+{
+  "name": "@xabi93/npm-release-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xabi93/npm-release-test.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xabi93/npm-release-test/issues"
+  },
+  "homepage": "https://github.com/xabi93/npm-release-test#readme"
+}
